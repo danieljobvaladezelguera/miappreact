@@ -9,7 +9,7 @@ class Footer extends React.Component {
  
         <footer className="container">
             <p className="float-right"><a href="#">Subir</a></p>
-            <p>&copy; {(new Date().getFullYear())} Laboratorio de Anatomía de Vertebrados y Educación Científica FES Iztacala  &middot;<a href="#" rel="noopener noreferrer">Política de Privacidad</a> &middot; <a href="#" rel="noopener noreferrer">Términos</a></p>
+            <p>&copy; {(new Date().getFullYear())} Laboratorio de Anatomía de Vertebrados y Educación Científica FES Iztacala  &middot;<a href="#" rel="noopener noreferrer"></a> &middot; <a href="#" rel="noopener noreferrer"></a></p>
         </footer>
  
     )
