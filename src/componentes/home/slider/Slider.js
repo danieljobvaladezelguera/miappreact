@@ -1,5 +1,5 @@
 import React from 'react';
-import Esfera from "../componentes/Imagenes";
+import Esfera from "./componentes/Imagenes";
 
 
 class Slider extends React.Component {
