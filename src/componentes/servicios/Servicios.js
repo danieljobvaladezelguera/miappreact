@@ -2,7 +2,7 @@ import React from 'react';
 
 import Menu from '../menu/Menu';
 
-import Footer from '../footer/Footer';
+//import Footer from '../footer/Footer';
 
 
 class Servicios extends React.Component {
